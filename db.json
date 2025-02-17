@@ -1,0 +1,8 @@
+{
+    "users": [
+      { "id": 1, "name": "Avaya AHome", "department": "IT", "location": "BLR","mobileNo":"123456789" },
+      { "id": 2, "name": "Bipul Home", "department": "HR", "location": "BBI" },
+      { "id": 3, "name": "Tanmay Home", "department": "FINANCE", "location": "CSK" }
+    ]
+  }
+  
